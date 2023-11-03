@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 60.647%;" class="progress-item"></span><span style="background-color: #00B4AB;width: 37.240%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.984%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.429%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.399%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.204%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.098%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 60.552%;" class="progress-item"></span><span style="background-color: #00B4AB;width: 37.340%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.982%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.428%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.398%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.204%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.097%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">60.65%</span>
+<span class="percent">60.55%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Dart</span>
-<span class="percent">37.24%</span>
+<span class="percent">37.34%</span>
 </li>
 
 
